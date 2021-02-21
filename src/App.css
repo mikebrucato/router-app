@@ -1,0 +1,16 @@
+.container {
+  margin: 20px 30px;
+}
+
+nav a {
+  padding: 8px;
+  text-decoration: none;
+}
+
+li {
+  margin: 8px;
+}
+
+li .active {
+  color: red
+}
